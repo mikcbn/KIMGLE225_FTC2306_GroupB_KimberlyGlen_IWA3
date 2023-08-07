@@ -1,5 +1,5 @@
-import { company } from './configuration.js';
-import { year } from './configuration.js';
+import { company } from './challenge-1/configuration.js';
+import { year } from './challenge-1/configuration.js';
 
 function updateFooter() {
   const message = `© ${company} (${year})`;
